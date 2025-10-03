@@ -4,9 +4,9 @@
 
 Data Analyst with hands-on experience in transforming raw data into actionable insights through dashboards, reports, and analytics solutions.
 
-💼 Currently working as a Data Analyst Intern at Ai Variant, Hyderabad, where I focus on analyzing large datasets, building interactive dashboards, generating business insights, and sdeveloping analytics solutions across hospitality and other business domains through Excel, SQL, Power BI, and Tableau.
+💼 Previously completed a 6 month Data Analyst Internship Ai Variant, Hyderabad, where I focus on analyzing large datasets, building interactive dashboards, generating business insights, and developing analytics solutions across healthcare and other business domains through Excel, SQL, Power BI, and Tableau.
 
-🌍 My project experience spans across Finance, Retail, Food & Beverage, Insurance, hospitality and banking,  — showcasing versatility and adaptability across industries.
+🌍 My project experience spans across Finance, Retail, Food & Beverage, Insurance and healthcare,  — showcasing versatility and adaptability across industries.
 
 🚀 Skilled in Excel (Advanced), SQL, Power BI, Tableau with a passion for leveraging data to solve business problems and uncover patterns.
 
