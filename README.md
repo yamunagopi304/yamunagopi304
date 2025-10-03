@@ -11,13 +11,15 @@ Data Analyst with hands-on experience in transforming raw data into actionable i
 🚀 Skilled in Excel (Advanced), SQL, Power BI, Tableau with a passion for leveraging data to solve business problems and uncover patterns.
 
 💡 On this GitHub, you’ll find a collection of projects that reflect my journey in turning data into stories that drive growth.
----------------------------------------------------------------------------
+
 🔹 Skills
+--------------------------------------------------------------------------------------------
 - SQL | Excel | Power BI | Tableau
 - Data Cleaning | Data Modelling| Data Visualization | KPI Tracking | drill-through analytics
 - Power Query | Power Pivot
 
 📂 Projects
+----------------------------------------------------------------------------------------------
 - Axon Healthcare Analytics
 - DBS Banking Analytics
 - Zomato Restaurant Analytics
@@ -26,6 +28,7 @@ Data Analyst with hands-on experience in transforming raw data into actionable i
 - Insurance Analyst
 
 🌐 Connect
-
+---------------------------------------------------------------------------------------------
 📧 [Email] [yamunag304@gmail.com]
+
 🔗 [LinkedIn] [www.linkedin.com/in/yamunag304]
