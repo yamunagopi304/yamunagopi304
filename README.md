@@ -28,5 +28,4 @@ Data Analyst with hands-on experience in transforming raw data into actionable i
 🌐 Connect
 
 📧 [Email] [yamunag304@gmail.com]
-
 🔗 [LinkedIn] [www.linkedin.com/in/yamunag304]
